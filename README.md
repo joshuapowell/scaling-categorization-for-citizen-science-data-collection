@@ -2,7 +2,7 @@
 
 How I helped a team scale their categorization using design thinking, cross-functional collaboration, and applied research.
 
-<aside>
+<aside style="background-color:#efefef">
 🎯 Water Reporter saw a 300% increase in reports during the same period the previous year after introducing hashtags, user accounts, and publicizing these features through in-person workshops.
 
 </aside>
