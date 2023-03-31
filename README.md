@@ -68,8 +68,6 @@ The next portion was facilitated by another UX team member. We sketched iterativ
 
 Another member of the UX team facilitated the sketching and storyboard sessions that were based on the ideas, concerns, and questions we had categorized in the previous exercise. We involved everyone in this, including the non-profits executive director and lead analyst.
 
-## Outcomes
-
 ### We realized that our ideas had varying issues:
 
 - __Type-ahead or Autocomplete__ required even more cognitive load and didn't shorten the list. How would users know what to type without context?
@@ -83,7 +81,7 @@ Another member of the UX team facilitated the sketching and storyboard sessions 
 
 This led us to the question: "How can we eliminate categories while maintaining structured category data?"
 
-## Our AHA! Moment
+## Outcomes
 Hashtags. Yeah, I know “hashtags” aren’t revolutionary. Hashtags are pretty common practice. Simple as they may seem, hashtags were the answer we were looking for.
 
 - Hashtags would let the user freely “categorize” their reports
