@@ -7,6 +7,9 @@ How I helped a team scale their categorization using design thinking, cross-func
 
 ![Water Reporter for iPhone with an example of the Report Hashtag and User Account Features](assets/images/WaterReporter-Hashtags.png)
 
+* TOC {:toc}
+
+
 
 ## Overview
 The [Water Reporter app was launched in 2013](https://medium.com/@joshuaisaacpowell/launching-the-water-reporter-app-92365be4ffa4) to serve a single organization, the Potomac Riverkeepers, in order to help their team better manage and respond to their organizations’ pollution reports. From 2012–2017, I performed generative research and used those insights and discoveries to drive visual design, establish data infrastructure, and create follow-on applications that enabled the team to scale to 184 organizations and over 8,500 active users.
