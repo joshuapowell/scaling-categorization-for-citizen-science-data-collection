@@ -28,8 +28,7 @@
           ]
         },
         "type": "Feature"
-      },
-
+      }
     ],
     "properties": {
       "num_results": 1,
