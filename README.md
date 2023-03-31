@@ -8,6 +8,7 @@ How I helped a team scale their categorization using design thinking, cross-func
 ![Water Reporter for iPhone with an example of the Report Hashtag and User Account Features](assets/images/WaterReporter-Hashtags.png)
 
 * TOC
+
 {:toc}
 
 
