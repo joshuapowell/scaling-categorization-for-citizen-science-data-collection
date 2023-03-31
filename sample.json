@@ -1,7 +1,18 @@
 {
     "features": [
       {
-        "geometry": null,
+        "geometry": {
+          "geometries": [
+            {
+              "coordinates": [
+                -70.7519,
+                42.68381
+              ],
+              "type": "Point"
+            }
+          ],
+          "type": "GeometryCollection"
+        },
         "id": 1,
         "properties": {
           "tags": [
