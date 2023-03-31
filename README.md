@@ -89,6 +89,10 @@ I led the design, implementation, and usability testing of these new features to
 
 ---
 
+In addition to leading the user experience research and design of the Water Reporter application from its first launch in 2013 through 2017, Joshua also handled the API development using Python with Flask, PostrgreSQL, PostGIS, and GeoJSON, the front end application using Angular, Mapbox, and Leaflet, the iOS application using Objective-C, Swift, and TestFlight, and the data engineering using GDAL, OGR, and a series of purpose built Python utilities.
+
+---
+
 This post is part of the Water Reporter series published by Joshua Powell to share the research and engineering work he’s completed over the course of his career. 
 
 Joshua helped launch the first version of WaterReporter on ArcGIS in 2013. Later he helped grow WaterReporter from a single organization app into platform for over 200 organizations and 8,500 environmental non-profit staff and volunteers. His work on the platform includes the design and build of the REST API infrastructure, mobile applications, as well as the Community Website and Manager operations tools. 
