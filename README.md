@@ -4,13 +4,13 @@ How I helped a team scale their categorization using design thinking, cross-func
 
 <aside style="background-color:#efefef">
 🎯 Water Reporter saw a 300% increase in reports during the same period the previous year after introducing hashtags, user accounts, and publicizing these features through in-person workshops.
-
 </aside>
+
+![Water Reporter for iPhone with an example of the Report Hashtag and User Account Features](assets/images/WaterReporter-Hashtags.png)
+
 
 ## Overview
 The [Water Reporter app was launched in 2013](https://medium.com/@joshuaisaacpowell/launching-the-water-reporter-app-92365be4ffa4) to serve a single organization, the Potomac Riverkeepers, in order to help their team better manage and respond to their organizations’ pollution reports. From 2012–2017, I performed generative research and used those insights and discoveries to drive visual design, establish data infrastructure, and create follow-on applications that enabled the team to scale to 184 organizations and over 8,500 active users.
-
-![Water Reporter for iPhone with an example of the Report Hashtag and User Account Features](assets/images/0*OG1Ryc3DDtui8Jt4.png)
 
 ## Problem
 The Water Reporter app required users to assign a category to a report in order to submit it. This was a carry over feature from the original app architecture and requirements. The organization staff teams would then use that category to identify which program was responsible for responding to and remediating the reported issue.
