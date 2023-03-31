@@ -2,82 +2,86 @@
 
 How I helped a team scale their categorization using design thinking, cross-functional collaboration, and applied research.
 
-> 🎯 Water Reporter saw a 300% increase in reports during the same period the previous year after introducing hashtags, user accounts, and publicizing these features through in-person workshops.
+> 🎯 Water Reporter's reports increased by 300% from the previous year upon introducing hashtags, user accounts, and promoting these features through in-person workshops.
 
+![Water Reporter for iPhone with an example of the Report Hashtag and User Account Features](assets/images/WaterReporter-Hashtags.png)
+
+## Table of Contents
 
   * [Overview](#overview)
   * [Problem](#problem)
-    + [A few problems existed.](#a-few-problems-existed)
+    + [Issues](#issues)
+    + [Questions arose about category manageability](#questions-arose-about-category-manageability)
   * [Research](#research)
     + [“How might we…” Questions](#-how-might-we---questions)
     + [Iterative Storyboarding](#iterative-storyboarding)
   * [Outcomes](#outcomes)
+    + [We realized that our ideas had varying issues:](#we-realized-that-our-ideas-had-varying-issues-)
+    + [We made some decisions as a team:](#we-made-some-decisions-as-a-team-)
   * [Our AHA! Moment](#our-aha--moment)
   * [Conclusion](#conclusion)
-
-
-![Water Reporter for iPhone with an example of the Report Hashtag and User Account Features](assets/images/WaterReporter-Hashtags.png)
-
+  
 ## Overview
-The [Water Reporter app was launched in 2013](https://medium.com/@joshuaisaacpowell/launching-the-water-reporter-app-92365be4ffa4) to serve a single organization, the Potomac Riverkeepers, in order to help their team better manage and respond to their organizations’ pollution reports. From 2012–2017, I performed generative research and used those insights and discoveries to drive visual design, establish data infrastructure, and create follow-on applications that enabled the team to scale to 184 organizations and over 8,500 active users.
+Launched in 2013 for the Potomac Riverkeepers, the [Water Reporter app]((https://medium.com/@joshuaisaacpowell/launching-the-water-reporter-app-92365be4ffa4)) initially helped their team manage and respond to pollution reports. With insights gained from generative research between 2012-2017, I led visual design, established data infrastructure, and developed follow-on apps that enabled the team to scale to 184 organizations and over 8,500 active users.
 
 ## Problem
-The Water Reporter app required users to assign a category to a report in order to submit it. This was a carry over feature from the original app architecture and requirements. The organization staff teams would then use that category to identify which program was responsible for responding to and remediating the reported issue.
+Originally, the Water Reporter app required users to assign a category to a report for submission, a carryover from its original architecture. As the app grew to support multiple organizations, each with their own categories, the number of options ballooned to a cumbersome list. While manageable for a small group of advanced users, the increasing number of categories became unmanageable as the app expanded.
 
-The app was originally used by their team of 12 volunteers and staff who collected a few reports per month. At that time, having a group of advanced users selecting from a list of 23 categories that they were intimately familiar with was easy and fit their use case. However, the app quickly grew to support over a dozen different organizations, each group with their own categories, projects, and initiatives that they wanted to add to the now growing list of categories.
+### Issues
+- New organizations wanted to add their own categories, adding to the already long list
+- Organizations were unwilling to give up their categories
+- The list was continuing to grow with each new organization
 
-### A few problems existed.
-- Each new organization joining the platform wanted to add their own initiatives and programs to the categories list
-- Few organizations were willing to give up their categories and the list was growing quickly
-- Categories would continue to be added for each new organization that was on-boarded
-
-We seemed to be facing an ever growing list of questions and concerns.
-
-- How long is too long for a single drop down list?
-- How much time is it taking a user to pick a category?
-- How do I know which category belongs to my organization?
-- Who would manage this large and growing list?
-- When would users decide to skip submitting because of category confusion?
-- How would the app team manage near duplicates and changes over time?
+### Questions arose about category manageability
+- How long is too long for a dropdown list?
+- How much time is spent choosing a category?
+- How do users know which category belongs to their organization?
+- Who will manage the growing list?
+- Will category confusion lead to fewer submissions?
+- How will duplicates and changes be managed?
 
 ## Research
-As the UX team lead, I began untangling this issue at my desk, reviewing the existing categories, and cross referencing those with keywords I started affinitizing from the “body” of the pollution report text. Questions started to pile up more quickly than answers:
 
-1. How many categories do we have slotted to add over the coming months?
-2. What did our growth look like in the coming year or two years?
-3. How might we reorganize these categories to be more readable?
-4. What user interface patterns could help us solve these issues?
-5. How are we going to solve this problem so that we won’t have to solve it again in the future?
+As UX team lead, I tackled the issue at my desk by reviewing existing categories and cross-referencing them with pollution report keywords. But questions quickly piled up:
 
-I scheduled a follow up meeting with the project team clarifying the needs and where we saw this going longer term. With the information collected from that meeting, my UX team and I derived a series of “How might we…” questions or “statement starters” to help focus the project team on the real problem we were trying to solve.
+- How many categories are we adding in the coming months?
+- What's our growth projection for the next year or two?
+- How can we make the categories more readable?
+- What UI patterns can solve these issues?
+- How can we avoid future re-solves of the problem?
 
-- *How might we* create and share categories “organically”?
-- *How might we* reduce the effort it takes to maintain categories?
-- *How might we* minimize the cognitive load of selecting categories?
+I held a follow-up meeting to clarify needs and long-term goals, from which my UX team and I formulated "How might we..." statements to focus on the problem:
+
+- **How might we** create and share categories organically?
+- **How might we** minimize the effort of maintaining categories?
+- **How might we** simplify category selection's cognitive load?
 
 ![January 2015 Cross-organization retreat with Viable Industries and The Commons, Inc.](assets/images/0*lYAGvj4IHgGQ21mQ.jpg)
 
-My UX team and I used these questions to plan an in-person design thinking workshop with the goal of clarifying our “How might we…” questions in order to make actionable recommendations.
+To make actionable recommendations, my UX team and I organized an in-person design thinking workshop to clarify our "How might we..." questions.
 
 ### “How might we…” Questions
-We started the workshop with an open discussion about the proposed “How might we…” questions, I facilitated the workshop by capturing ideas, concerns, small sketches, and clarifying questions on sticky notes. After we completed this initial exercise, I spent some time affinitizing these notes, and then brought the team back together.
+We began the workshop by discussing the "How might we..." questions. As the facilitator, I recorded ideas, concerns, sketches, and clarifying questions on sticky notes. Once the exercise was complete, I categorized the notes and reconvened the team.
 
 ### Iterative Storyboarding
 The next portion was facilitated by another UX team member. We sketched iterative storyboard concepts based on the groups of ideas, concerns, and questions we had from the previous exercise. We got everyone involved in this, even the Water Reporter organization’s executive director and software engineer.
 
+Another member of the UX team facilitated the sketching and storyboard sessions that were based on the ideas, concerns, and questions we had categorized in the previous exercise. We involved everyone in this, including the non-profits executive director and lead analyst.
+
 ## Outcomes
-We quickly began to realize that many of the ideas we were developing had varying issues:
 
-1. __Type-ahead or Autocomplete__ was one option but didn’t shorten the list and required even more cognitive load than the previous drop down list with numerous results. How would the user know what to begin typing without context?
-2. __Drop Down Grouping__ would provide us with “Organization” group names and list organization-specific categories below that group heading. How would the organization manage this list? How much overhead would this place on them? Were organizations going to take on the responsibility of managing this list?
-3. __Organization Specific Drop Down__ driven by the organization the user was associated with was another option but would limit the “community” aspect and would add the same overhead requirements that the “Drop Down Grouping” solution did.
+### We realized that our ideas had varying issues:
 
-Finally, we took a step back and made some concrete decisions as a team.
+- __Type-ahead or Autocomplete__ required even more cognitive load and didn't shorten the list. How would users know what to type without context?
+- __Drop Down Grouping__ would provide organization group names, but how would the organization manage the list? Would this add too much overhead?
+- __Organization Specific Drop Down__ would limit the community aspect and add the same overhead as Drop Down Grouping.
 
-1. The organization wasn’t going to manage their own categories
-2. The Water Reporter product team wasn’t going to manage all those categories either
+### We made some decisions as a team:
 
-Which led us to the question “How could we eliminate categories all together while maintaining structured category data?”.
+- Organizations wouldn't manage their own categories
+- The Water Reporter product team wouldn't manage all categories
+
+This led us to the question: "How can we eliminate categories while maintaining structured category data?"
 
 ## Our AHA! Moment
 Hashtags. Yeah, I know “hashtags” aren’t revolutionary. Hashtags are pretty common practice. Simple as they may seem, hashtags were the answer we were looking for.
@@ -88,23 +92,19 @@ Hashtags. Yeah, I know “hashtags” aren’t revolutionary. Hashtags are prett
 
 Hashtags also had a few other intrinsic benefits
 
-- __Organizations could “promote” specific hashtags__ for a project, program, initiative, or heck, even a one-day event.
-- __User acceptance of the new feature was nearly instant__, most people in 2015 understood the concept of hashtags and how to use them, so there was minimal push back from our user base. In fact, most of the responses during usability testing were in the realm of “Why didn’t you add hashtags sooner?” and “Wait, the app didn’t always have hashtags?”
-- __Structured data was still possible__ because we could programmatically create and relate hashtags records to report records and super-power our search.
+- __Organizations could easily "promote" specific hashtags__ for their projects, programs, initiatives, or events.
+- __Users quickly accepted the new feature__ since the concept of hashtags was already well understood in 2015, resulting in minimal pushback from our user base. In fact, during usability testing, most responses were along the lines of "Wait, the app didn't always have hashtags?" and "Why didn't you add hashtags sooner?".
+- __Structured data was still achievable__ as we could programmatically create and associate hashtag records with report records, enhancing our search capabilities.
 
 ## Conclusion
-The design thinking workshop covered 2 ½ days and resulted in the addition of several new features to the Water Reporter app. Hashtags, user accounts, and a stand alone application focused on remediation efforts stemming from reports submitted through the app were among the additions.
+The 2 ½ day design thinking workshop resulted in several new features being added to the Water Reporter app, including hashtags, user accounts, and a standalone application for remediation efforts. 
 
-I led the design, implementation, and usability testing of these new features to both mobile apps and the community web application. __Water Reporter saw a 300% increase* of new reports submitted after introducing hashtags, user accounts, and publicizing these features through in-person workshops.__
-
----
-
-In addition to leading the user experience research and design of the Water Reporter application from its first launch in 2013 through 2017, Joshua also handled the API development using Python with Flask, PostrgreSQL, PostGIS, and GeoJSON, the front end application using Angular, Mapbox, and Leaflet, the iOS application using Objective-C, Swift, and TestFlight, and the data engineering using GDAL, OGR, and a series of purpose built Python utilities.
+I designed, implemented, and conducted usability testing on these new features for both the mobile apps and community web application. Following the introduction of hashtags, user accounts, and promotion through in-person workshops, Water Reporter experienced a 300% increase in new reports submitted.
 
 ---
 
 This post is part of the Water Reporter series published by Joshua Powell to share the research and engineering work he’s completed over the course of his career. 
 
-Joshua helped launch the first version of WaterReporter on ArcGIS in 2013. Later he helped grow WaterReporter from a single organization app into platform for over 200 organizations and 8,500 environmental non-profit staff and volunteers. His work on the platform includes the design and build of the REST API infrastructure, mobile applications, as well as the Community Website and Manager operations tools. 
+Joshua played a key role in launching the initial version of WaterReporter on ArcGIS in 2013. He subsequently contributed to expanding the platform from a single organization app to a platform serving over 200 organizations and 8,500 environmental non-profit staff and volunteers. His contributions to the platform encompassed designing and constructing the REST API infrastructure, developing mobile applications, and creating the various websites and data tooling to grow the platform.
 
 You can read more stories, like this one, by [visiting his website](https://joshuapowell.io).
