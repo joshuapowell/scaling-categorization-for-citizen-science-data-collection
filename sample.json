@@ -1,0 +1,29 @@
+{
+    "features": [
+      {
+        "geometry": null,
+        "id": 1,
+        "properties": {
+          "tags": [
+            {
+              "geometry": null,
+              "id": 1,
+              "properties": {
+                "id": 1,
+                "tag": "ExampleHashtag"
+              },
+              "type": "Feature"
+            }
+          ]
+        },
+        "type": "Feature"
+      },
+
+    ],
+    "properties": {
+      "num_results": 1,
+      "page": 1,
+      "total_pages": 1
+    },
+    "type": "FeatureCollection"
+  }
