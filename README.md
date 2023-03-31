@@ -86,3 +86,9 @@ Hashtags also had a few other intrinsic benefits
 The design thinking workshop covered 2 ½ days and resulted in the addition of several new features to the Water Reporter app. Hashtags, user accounts, and a stand alone application focused on remediation efforts stemming from reports submitted through the app were among the additions.
 
 I led the design, implementation, and usability testing of these new features to both mobile apps and the community web application. __Water Reporter saw a 300% increase* of new reports submitted after introducing hashtags, user accounts, and publicizing these features through in-person workshops.__
+
+---
+
+This post is part of the Water Reporter series published by Joshua Powell to share the user experience work he’s completed over the course of his career. Joshua helped launch the first version of WaterReporter on ArcGIS in 2013. Later he helped grow WaterReporter from a single organization app into platform for over 200 organizations and 8,500 environmental non-profit staff and volunteers. His work on the platform includes the design and build of the REST API infrastructure, mobile applications, as well as the Community Website and Manager operations tools. 
+
+You can read more stories, like this one, by [visiting his website](https://joshuapowell.io).
