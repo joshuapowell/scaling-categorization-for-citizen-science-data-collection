@@ -16,9 +16,6 @@ How I helped a team scale their categorization using design thinking, cross-func
     + [“How might we…” Questions](#-how-might-we---questions)
     + [Iterative Storyboarding](#iterative-storyboarding)
   * [Outcomes](#outcomes)
-    + [We realized that our ideas had varying issues:](#we-realized-that-our-ideas-had-varying-issues-)
-    + [We made some decisions as a team:](#we-made-some-decisions-as-a-team-)
-  * [Our AHA! Moment](#our-aha--moment)
   * [Conclusion](#conclusion)
   
 ## Overview
